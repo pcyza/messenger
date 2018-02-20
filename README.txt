@@ -1,7 +1,6 @@
 On unix:
 
 1. Building:
-cd messenger
 mvn clean install
 
 2. Starting server:
